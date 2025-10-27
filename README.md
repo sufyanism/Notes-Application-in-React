@@ -4,10 +4,10 @@ A user-friendly notes app created with React. It makes it simple for users to m
 <br/>
 
 ## Features
-✨ Create new notes.
-✨ Edit existing notes.
-✨ Delete notes.
-✨ Clean and user-friendly interface.
+✨ Create new notes <br/>
+✨ Edit existing notes <br/>
+✨ Delete notes <br/>
+✨ Clean and user-friendly interface <br/>
 
 <br/>
 
@@ -24,7 +24,8 @@ A user-friendly notes app created with React. It makes it simple for users to m
 ## Demo
 ![Ebook screenshot](https://github.com/user-attachments/assets/701294b9-dc99-4647-9285-8ba275c6a9f6)
 
-https://github.com/user-attachments/assets/3b3ebb67-4c50-4e7f-9fb6-9ece8e59625d
+https://github.com/user-attachments/assets/ebc21860-1c10-469a-8b01-2767cf1bea59
+
 
 
 
