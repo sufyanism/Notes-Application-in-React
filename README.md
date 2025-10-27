@@ -29,18 +29,18 @@ Open the terminal and type:
 npm create vite@latest
 ```
 
-### 3.Type the folder name or just a dot if you want to use the current folder. Then, select React and choose JavaScript
+### 2.Type the folder name or just a dot if you want to use the current folder. Then, select React and choose JavaScript
 After the project is created, go into the project folder and install all npm packages by running:
 ```sh 
 npm install
 ```
 
-### 4.Next, install the required libraries:
+### 3.Next, install the required libraries:
 ```sh
 npm install react-router-dom lucide-react react-hot-toast
 ```
 
-### Now, let’s set up Tailwind CSS for Vite.
+### 4.Now, let’s set up Tailwind CSS for Vite.
 Run the following command:
 ```sh
 npm install -D tailwindcss postcss autoprefixer
@@ -56,8 +56,6 @@ This will create a ```tailwind.config.js ``` file. Open it and add your custom t
 https://github.com/user-attachments/assets/ebc21860-1c10-469a-8b01-2767cf1bea59
 
 </br>
-
-
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
