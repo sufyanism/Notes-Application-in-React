@@ -21,9 +21,12 @@ A user-friendly notes app created with React. It makes it simple for users to m
 
 <br/>
 
-## Installation,
-```sh
+## Installation
+
 create a new Vite project
+```sh
+npm create vite@latest
+```
 ```
 
 Open the terminal and type:
