@@ -23,24 +23,24 @@ A user-friendly notes app created with React. It makes it simple for users to m
 
 ## Installation
 
-### 1.Create a new Vite project
+### 1. Create a new Vite project
 Open the terminal and type:
 ```sh
 npm create vite@latest
 ```
 
-### 2.Type the folder name or just a dot if you want to use the current folder. Then, select React and choose JavaScript
+### 2. Type the folder name or just a dot if you want to use the current folder. Then, select React and choose JavaScript
 After the project is created, go into the project folder and install all npm packages by running:
 ```sh 
 npm install
 ```
 
-### 3.Next, install the required libraries:
+### 3. Next, install the required libraries:
 ```sh
 npm install react-router-dom lucide-react react-hot-toast
 ```
 
-### 4.Now, let’s set up Tailwind CSS for Vite.
+### 4. Now, let’s set up Tailwind CSS for Vite.
 Run the following command:
 ```sh
 npm install -D tailwindcss postcss autoprefixer
@@ -48,6 +48,26 @@ npx tailwindcss init -p
 ```
 This will create a ```tailwind.config.js ``` file. Open it and add your custom theme inside the extend section.
 
+
+## Clone the repository
+```sh
+git clone https://github.com/sufyanism/Notes-Application-in-React.git
+```
+
+### Navigate to the project directory
+```sh
+cd Notes-Application-in-React
+```
+
+### Install dependencies
+```sh
+npm install
+```
+
+### Run the application
+```sh
+npm start
+```
 <br/>
 
 ## Demo
