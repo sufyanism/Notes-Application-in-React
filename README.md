@@ -27,7 +27,7 @@ A user-friendly notes app created with React. It makes it simple for users to m
 ```sh
 npm create vite@latest
 ```
-```
+
 
 ### Open the terminal and type:
 
@@ -41,12 +41,12 @@ After the project is created, go into the project folder and install all npm pac
 npm install
 ```
 
-Next, install the required libraries:
+### Next, install the required libraries:
 ```sh
 npm install react-router-dom lucide-react react-hot-toast
 ```
 
-Now, let’s set up Tailwind CSS for Vite.
+### Now, let’s set up Tailwind CSS for Vite.
 Run the following command:
 ```sh
 npm install -D tailwindcss postcss autoprefixer
