@@ -23,23 +23,20 @@ A user-friendly notes app created with React. It makes it simple for users to m
 
 ## Installation
 
-create a new Vite project
+### create a new Vite project
 ```sh
 npm create vite@latest
 ```
 ```
 
-Open the terminal and type:
+### Open the terminal and type:
+
 ```sh
 npm create vite@latest
 ```
 
-Type the folder name or just a dot if you want to use the current folder. Then, select React and choose JavaScript.
-
-After the project is created, go into the project folder and install all ```sh
-npm packages by running:
-```
-
+### Type the folder name or just a dot if you want to use the current folder. Then, select React and choose JavaScript
+After the project is created, go into the project folder and install all npm packages by running:
 ```sh 
 npm install
 ```
