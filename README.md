@@ -21,24 +21,7 @@ A user-friendly notes app created with React. It makes it simple for users to m
 
 <br/>
 
-## Demo
-![Ebook screenshot](https://github.com/user-attachments/assets/701294b9-dc99-4647-9285-8ba275c6a9f6)
-
-https://github.com/user-attachments/assets/ebc21860-1c10-469a-8b01-2767cf1bea59
-
-</br>
-
-
-The healing frequencies of the 7 chakras include: 
-
-396 Hz UT for the Root Chakra — Releasing Guilt and Fear, Removes Negative Beliefs. 
-417 Hz RE for the Sacral Chakra — Easing, Initiating and Facilitating Change, Removes Negative Energy. 
-528 Hz MI for the Solar Plexus Chakra — Healing and DNA Repair, Frequency, Miracle Tone and Frequency of Transformation. 
-639 Hz FA for the Heart Chakra — Connecting and Relationships, Helps with Communication and Understanding, Love. 
-741 Hz SOL for the Throat Chakra — Consciousness Expansion, Finding Creative Expression & Solutions, Improves Mental Functions. 
-852 Hz LA for the Third Eye Chakra — Awakening Intuition, Return to Spiritual Order, Inner Strength.
-
-Installation,
+## Installation,
 ```sh
 create a new Vite project
 ```
@@ -72,6 +55,14 @@ npx tailwindcss init -p
 
 This will create a ```tailwind.config.js ``` file. Open it and add your custom theme inside the extend section.
 
+
+
+## Demo
+![Ebook screenshot](https://github.com/user-attachments/assets/701294b9-dc99-4647-9285-8ba275c6a9f6)
+
+https://github.com/user-attachments/assets/ebc21860-1c10-469a-8b01-2767cf1bea59
+
+</br>
 
 
 
